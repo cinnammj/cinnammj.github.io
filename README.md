@@ -5,7 +5,7 @@ I'm an Informatics student specializing in Cybersecurity, with hands-on experien
 More about me:
 
 * 📍 Currently in Seattle, WA (originally Manassas, VA)
-* 🎓 BS Informatics (Cybersecurity) — University of Washington (Sep 2022 – Jun 2026 expected)
+* 🎓 BS Informatics (Cybersecurity) - University of Washington (Sep 2022 – Jun 2026 expected)
 * 🛡️ Hands-on with penetration testing tools, CTFs, DoD-style challenges, and LLM red-teaming
 * 🤖 Currently evaluating & ranking AI-generated code and web-browsing behavior for model improvement
 * 🔒 Interested in secure software, AI safety, offensive/defensive security, and incident response
@@ -16,7 +16,7 @@ More about me:
 ## Education
 
 **University of Washington, Seattle**  
-**BS Informatics — Cybersecurity Specialization**  
+**BS Informatics - Cybersecurity Specialization**  
 Sep 2022 – Jun 2026 (expected)
 
 **Relevant Coursework**  
@@ -36,8 +36,8 @@ Deployed a full-stack password manager as a honeypot to simulate real attacks, t
 - Implemented end-to-end encryption (data-in-transit & at-rest) using cryptographic best practices  
 - Added anomaly detection via secure logging and monitoring for suspicious activity  
 
-**Tech stack:** Python/Flask (backend), HTML/CSS/JS (frontend), SQL, cryptography libs, OWASP ZAP for testing  
-**Impact:** Turned a vulnerable app into a production-ready, secure system—lessons directly applied to my AI web-browsing evaluations.  
+**Tech stack:** Python (backend), HTML/CSS/JS (frontend), SQL, cryptography libs, OWASP ZAP for testing  
+**Impact:** Turned a vulnerable app into a production-ready, secure system-lessons directly applied to my AI web-browsing evaluations.  
 
 **[GitHub Repo](https://github.com/cinnammj/UWPasswordManager)**  
 
@@ -51,7 +51,7 @@ Head-to-head battle of two dynamic application security testing (DAST) tools aga
 - Benchmarked real-world effectiveness in a controlled environment  
 
 **Tech stack:** OWASP ZAP, Nikto, Burp Suite (for manual verification), Python for automation scripts, vulnerable DVWA app  
-**Impact:** Created a decision framework for teams choosing DAST tools—now part of my toolkit for LLM security audits.  
+**Impact:** Created a decision framework for teams choosing DAST tools-now part of my toolkit for LLM security audits.  
 
 **[Report](coming soon)**
 
@@ -63,28 +63,10 @@ More details coming soon
 
 ---
 
-## Leadership & Volunteer Work
-
-**Reformed University Fellowship (RUF)** — Leadership Team  
-Sep 2022 – Present  
-Weekly A/V setup, live sound mixing, and event coordination for 60+ person gatherings.
-
-**FIRST Robotics** — Engineering & Drive Team Mentor  
-Sep 2022 – Present  
-Mentoring high school students in CAD (SolidWorks), drivetrain, game strategy, and robot competition prep.
-
----
-
 ## Extracurricular & Interests
 
-- Gaming enthusiast — deep dives into mechanics, meta strategies, balance, and player behavior  
+- Gaming enthusiast - deep dives into mechanics, meta strategies, balance, and player behavior  
 - Community moderator for two popular streamers (real-time chat management & positive engagement)  
-- Completed game development course — designed & prototyped original games (focus: progression, UX, interaction)
+- Completed game development course - designed & prototyped original games (focus: progression, UX, interaction)
 
 ---
-
-## I'm familiar with
-
-- **Languages** — Python · Java · JavaScript · SQL · HTML/CSS · R  
-- **Security** — Nmap · OWASP ZAP · Wireshark · Metasploit · Nikto · NIST · MITRE ATT&CK  
-- **Other** — AWS · Git/GitHub · SolidWorks · Threat modeling · Cryptography · Incident response
