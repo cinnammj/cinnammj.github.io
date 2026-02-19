@@ -26,34 +26,40 @@ Cybersecurity · Network Security · Information Assurance · Enterprise Risk Ma
 Python · Java · R · SQL · HTML/CSS · JavaScript · Nmap · OWASP ZAP · Wireshark · Metasploit · Nikto · AWS · Git/GitHub · SolidWorks
 
 ---
+### Projects I've worked on
+### Securing a Web-Based Password Manager
+*Jan – Mar 2025*  
+Deployed a full-stack password manager as a honeypot to simulate real attacks, then hardened it from the ground up.  
 
-## Experience Highlights
+**What I built & broke:**  
+- Exposed and mitigated SQL injection, XSS, brute-force logins, weak auth, and broken access controls  
+- Implemented end-to-end encryption (data-in-transit & at-rest) using cryptographic best practices  
+- Added anomaly detection via secure logging and monitoring for suspicious activity  
 
-**AI Data Specialist (Coding Projects)** — Independent Contractor  
-Nov 2025 – Present  
-- Writing diverse Python & Java prompts to test LLMs on algorithms, data structures, and problem-solving  
-- Creating rubrics and ranking model outputs on correctness, clarity, and reasoning quality  
-- Evaluating LLM agents in simulated web navigation & instruction-following tasks
+**Tech stack:** Python/Flask (backend), HTML/CSS/JS (frontend), SQL, cryptography libs, OWASP ZAP for testing  
+**Impact:** Turned a vulnerable app into a production-ready, secure system—lessons directly applied to my AI web-browsing evaluations.  
 
-**Cybersecurity Activities**  
-- **DoD Cyber Sentinel Skills Challenge** (Jun 2025) — Digital forensics, reverse engineering, OSINT, web & network security  
-- **Batman's Kitchen** (UW Cybersecurity Team, Oct 2024) — CTFs, reverse engineering, crypto, system hardening, NIST/MITRE ATT&CK  
-- **CyberPatriot** (Team Captain, Oct 2018 – Mar 2022) — Led Windows/Linux hardening, top Windows performer, mentored teammates, built incident response plans
+**[GitHub Repo](https://github.com/cinnammj/UWPasswordManager)**  
 
----
+### DAST Tool Comparison: OWASP ZAP vs. Nikto
+*Jan – Mar 2025*  
+Head-to-head battle of two dynamic application security testing (DAST) tools against a deliberately vulnerable web app.  
 
-## Selected Projects
+**What I tested:**  
+- Scanned for XSS, SQLi, outdated software, and 20+ other vulns  
+- Analyzed scan coverage, false positives, report clarity, and usability  
+- Benchmarked real-world effectiveness in a controlled environment  
 
-**Capstone Project - Phishing prevention webapp**
+**Tech stack:** OWASP ZAP, Nikto, Burp Suite (for manual verification), Python for automation scripts, vulnerable DVWA app  
+**Impact:** Created a decision framework for teams choosing DAST tools—now part of my toolkit for LLM security audits.  
 
-**DAST Tool Comparison: OWASP ZAP vs. Nikto** (Jan – Mar 2025)  
-Compared two dynamic application security testing tools against a vulnerable web app.  
-Analyzed detection of XSS, SQL injection, outdated software, scan depth, false positives, report quality, and usability.
+**[Report](coming soon)**
 
-**Securing a Web-Based Password Manager** (Jan – Mar 2025)  
-Deployed a realistic password manager → attacked it with common exploits.  
-Mitigated SQLi, XSS, brute-force, weak auth, and broken access control.  
-Added encryption (in-transit & at-rest), secure logging, and monitoring.
+### SilverGuard
+*Jan - Jun 2026*
+More details coming soon
+
+**[GitHub Repo](https://github.com/cinnammj/SilverGuard)**
 
 ---
 
