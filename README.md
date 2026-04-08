@@ -46,7 +46,7 @@ Deployed a full-stack password manager as a honeypot to simulate real attacks, t
 Head-to-head battle of two dynamic application security testing (DAST) tools against a deliberately vulnerable web app.  
 
 **What I tested:**  
-- Scanned for XSS, SQLi, outdated software, and 20+ other vulns  
+- Scanned for XSS, SQLi, outdated software, and 20+ other vulnerabilities  
 - Analyzed scan coverage, false positives, report clarity, and usability  
 - Benchmarked real-world effectiveness in a controlled environment  
 
@@ -57,16 +57,24 @@ Head-to-head battle of two dynamic application security testing (DAST) tools aga
 
 ### SilverGuard
 *Jan - Jun 2026*
-More details coming soon
+Capstone project focused on building an accessible cybersecurity training platform for adults 65+ to recognize and avoid phishing scams.
+
+**What we built**
+- Interactive phishing simulations with real-time feedback on user decisions
+- Guided learning modules explaining scam tactics in simple, jargon-free language
+- Progress tracking system to reinforce learning and build user confidence
+- Senior-first UI with large text, high contrast, and simplified navigation
+
+**Process**
+- Applied user-centered design (personas, prototyping, user interviews with seniors)
+- Iterated based on real user feedback to improve usability and clarity
+- Delivered a fully functional MVP focused on hands-on learning over passive content
+
+**Impact**
+- Demonstrated that effective cybersecurity tools must prioritize accessibility and human factors—especially for vulnerable populations; strengthened my ability to translate complex security concepts into usable systems
+
+**Next steps**
+- Expand scam scenarios, improve accessibility, explore voice-assisted features, and scale testing with broader senior audiences
 
 **[GitHub Repo](https://github.com/cinnammj/SilverGuard)**
 
----
-
-## Extracurricular & Interests
-
-- Gaming enthusiast - deep dives into mechanics, meta strategies, balance, and player behavior  
-- Community moderator for two popular streamers (real-time chat management & positive engagement)  
-- Completed game development course - designed & prototyped original games (focus: progression, UX, interaction)
-
----
