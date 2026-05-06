@@ -41,6 +41,14 @@ Deployed a full-stack password manager as a honeypot to simulate real attacks, t
 
 **[GitHub Repo](https://github.com/cinnammj/UWPasswordManager)**  
 
+Example of breaking with SQL injection
+
+<img src="offensive.PNG"/>
+
+Example of a fix used to stop SQL injection
+
+<img src="defensive.PNG"/>
+
 ### DAST Tool Comparison: OWASP ZAP vs. Nikto
 *Jan – Mar 2025*  
 Head-to-head battle of two dynamic application security testing (DAST) tools against a deliberately vulnerable web app.  
@@ -53,11 +61,11 @@ Head-to-head battle of two dynamic application security testing (DAST) tools aga
 **Tech stack:** OWASP ZAP, Nikto, Burp Suite (for manual verification), Python for automation scripts, vulnerable DVWA app  
 **Impact:** Created a decision framework for teams choosing DAST tools-now part of my toolkit for LLM security audits.  
 
-**[Report](coming soon)**
+**[Report](https://github.com/cinnammj/cinnammj.github.io/blob/main/DAST%20Tools.pdf)**
 
 ### SilverGuard
 *Jan - Jun 2026*
-Capstone project focused on building an accessible cybersecurity training platform for adults 65+ to recognize and avoid phishing scams.
+Capstone project focused on building an accessible cybersecurity training platform for adults aged 65+ to help them recognize and avoid phishing scams.
 
 **What we built**
 - Interactive phishing simulations with real-time feedback on user decisions
@@ -78,3 +86,10 @@ Capstone project focused on building an accessible cybersecurity training platfo
 
 **[GitHub Repo](https://github.com/cinnammj/SilverGuard)**
 
+The learning modules
+
+<img src="learn.PNG"/>
+
+The phishing simulation quiz
+
+<img src="test.PNG"/>
